@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**shohann/shohann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my profile! I'm a curious backend engineer who loves solving complex problems and building innovative solutions.
 
-Here are some ideas to get you started:
+## How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Facebook: https://www.facebook.com/profile.php?id=61559235166891
+- Twitter: https://x.com/shohanur490
+- GitHub: https://github.com/shohann
+- LinkedIn: https://www.linkedin.com/in/shohann
+- Email: shohanurr490@gmail.com
+
+## My CV/Resume:
+
+You can see and download the pdf copy of my latest resume from below (I removed my phone number though) 👇
+
+- [Google Drive](https://drive.google.com/file/d/1ypQMHRxMOTrpdYEzuztd5Ug1bkF_7paa/view?usp=sharing)
