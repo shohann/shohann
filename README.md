@@ -14,4 +14,4 @@
 
 You can see and download the pdf copy of my latest resume from below (I removed my phone number though) 👇
 
-- [Google Drive](https://drive.google.com/file/d/1ypQMHRxMOTrpdYEzuztd5Ug1bkF_7paa/view?usp=sharing)
+- [Google Drive](https://drive.google.com/file/d/10Tyw3NHfgqCn_5a9AotQEV5h2LQKvCVf/view?usp=sharing)
