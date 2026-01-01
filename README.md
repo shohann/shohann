@@ -9,9 +9,3 @@
 - GitHub: https://github.com/shohann
 - LinkedIn: https://www.linkedin.com/in/shohann
 - Email: shohanurr490@gmail.com
-
-## My CV/Resume:
-
-You can see and download the pdf copy of my latest resume from below 👇
-
-- [Google Drive](https://drive.google.com/file/d/10Tyw3NHfgqCn_5a9AotQEV5h2LQKvCVf/view?usp=sharing)
